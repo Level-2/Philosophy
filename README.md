@@ -20,10 +20,10 @@ A smaller library with fewer classes and methods means there is a far easier lea
 
 Level-2 is made up (currently) of the following libraries:
 
-Dice Dependency Injection Container (71 Cyclomatic Complexity, for comparison, PHP-DI is 401 and Laravel's Illuminate is 146)
-Maphper ORM - (197 cyclomatic complexity, for comparison Doctrine 2 is 4302)
-Vision Template Engine (35 Cyclomatic Complexity, for comparison Twig is 1286)
-Aphplication PHP Application server
-Axel Extensible Autoloader
+* Dice Dependency Injection Container (71 Cyclomatic Complexity, for comparison, PHP-DI is 401 and Laravel's Illuminate is 146)
+* Maphper ORM - (197 cyclomatic complexity, for comparison Doctrine 2 is 4302)
+* Vision Template Engine (35 Cyclomatic Complexity, for comparison Twig is 1286)
+* Aphplication PHP Application server
+* Axel Extensible Autoloader
 
 
